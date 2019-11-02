@@ -1,0 +1,8 @@
+Key = the, Value = 2
+Key = rain, Value = 1
+Key = spain, Value = 1
+Key = falls, Value = 1
+Key = in, Value = 1
+Key = plains, Value = 1
+Key = mainly, Value = 1
+Key = on, Value = 1
